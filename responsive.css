@@ -1,0 +1,10 @@
+@media (max-width: 410px) {
+  #maincontainer {
+    background-image: none;
+    background-color: rgb(0, 0, 0);
+    padding: 0.1rem;
+  }
+  #complete {
+    padding: 0.5rem;
+  }
+}
